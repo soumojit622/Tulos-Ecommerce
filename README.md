@@ -52,35 +52,45 @@ Check out the live video demo: [Product Showcase Platform](https://shorturl.at/R
 
 ---
 
-## 🤝 Contributing
+## 💬 Contributing 🌍
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/your-repo/issues).  
+We welcome all contributions! Here's how you can contribute:
 
-### How to Contribute
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-feature-name`.
-3. Commit your changes: `git commit -m 'Add your feature description'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Submit a pull request.
-
----
-
-## 📌 Acknowledgements
-
-- Special thanks to the open-source community for tools and resources.
-- Inspired by modern web design principles and frameworks.
-- Powered by **Sanity CMS** and **Next.js** for seamless integration.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. 🖊️ Commit your changes:
+    ```bash
+    git commit -m "Add your feature"
+    ```
+4. 🚀 Push the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. 🔀 Open a pull request.
 
 ---
 
-## 📧 Contact
+## 📧 Contact ✉️
 
-- **Author**: [Soumojit Banerjee](https://github.com/masterSoumojit007)  
-- **Email**: [Mail](soumojitbanerjee22@gmail.com) 
-- **GitHub**: [GitHub Profile](https://github.com/masterSoumojit007)  
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)  
+For any questions or feedback, feel free to contact me:
+
+- 📧 Email: [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)
+
+---
+
+## 👨‍💻 Made by [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/) 💼
+
+Feel free to connect with me on:  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)  
+
+---
+
+## ❤️ Special Thanks 🙏
+
+A special thanks to **ChatGPT** for all your support in completing this project! 🌟
 
 ---
 
